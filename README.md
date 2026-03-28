@@ -56,3 +56,24 @@ I utilized **HackerRank** to complete the "Say Hello, World! With Python" challe
 
 **Academic & Professional Benefits:**
 As a B.Tech CSE student, these tools are essential for my academic and career growth. HackerRank prepares me for technical placements and sharpens my problem-solving logic. Google Workspace, on the other hand, is a vital skill for group projects and research, allowing for seamless real-time collaboration with my batchmates. Mastering these platforms as a Digital Ambassador allows me to provide better guidance to my peers, fostering a more organized and technically proficient student community.
+
+---
+
+
+## Task 4: The Impact of Poor Digital Communication
+
+The Scenario:
+A common yet serious instance of poor digital communication is the "Reply-All" data breach. In a hypothetical college scenario, a student might send an email containing sensitive personal documents or a private grievance to an administrator, but accidentally hits "Reply-All," broadcasting that private information to the entire department. This causes immediate reputational damage and a breach of privacy that is impossible to "undo" once the email is sitting in hundreds of inboxes.
+
+What could have been done differently:
+This situation could have been avoided by practicing better email etiquette and "Pause before Posting" logic. The sender should have double-checked the "To" field before hitting send and used the BCC (Blind Carbon Copy) feature if they were part of a large thread. Additionally, using secure cloud-sharing links with restricted access—rather than attaching raw files—would have allowed the sender to revoke access once the mistake was realized. Mastering these professional communication standards is a core responsibility for any Digital Ambassador.
+
+---
+
+🛡️ Task 5: Cybercrime Awareness & Prevention
+
+What surprised me most:
+While researching UPI fraud, I was surprised to learn how scammers exploit the psychological "rush" of receiving money to make victims ignore basic security logic. The fact that a QR code is technically a "Request for Money" and not a "Payment Voucher" is something many users—including tech-savvy students—often misunderstand. It highlighted that the weakest link in cybersecurity is often human psychology, not just software bugs.
+
+Habit I will change:
+Moving forward, I will strictly follow the "Zero Trust" policy for unsolicited links and QR codes. I have also committed to using a dedicated password manager to ensure I don't reuse passwords across different platforms. As a Digital Ambassador, I will actively educate my batchmates that a UPI PIN is strictly for sending money, never for receiving it
