@@ -10,5 +10,5 @@ One thing I found particularly **interesting** during this creation process was 
 ---
 
 ## 🛠️ How to View the Project
-1. Open the file `task_1.pdf` in this repository to view the full design.
+1. Open the file `task_1.png` in this repository to view the full design.
 2. This project is a static visual resource; no specific environment setup or dependencies are required for execution.
