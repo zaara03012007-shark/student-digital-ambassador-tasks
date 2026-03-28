@@ -16,6 +16,27 @@ One thing I found particularly **interesting** during this creation process was 
 
 ---
 
+
+---
+
+## 🎨 Task 2: Professional Online Presence & Personal Branding
+
+### 🌐 Profile Links
+* **LinkedIn:** [My Professional Profile](www.linkedin.com/in/zaara-parween-84a8b5372)
+* **Kaggle:** [My Data Science Portfolio](https://www.kaggle.com/zaaraparween)
+* **GitHub:** [My Coding Repository](https://github.com/zaara03012007-shark)
+
+### 📸 Portfolio Screenshots
+![GitHub Profile](task-2-portfolio/image_7f04bf.jpg)
+![LinkedIn Profile](task-2-portfolio/linkedin_screenshot.png)
+![Kaggle Profile](task-2-portfolio/kaggle_screenshot.png)
+
+### ✍️ Task 2 Project Report
+For this task, I focused on building a cohesive professional brand across major technical and networking platforms. I optimized my **LinkedIn** profile with a custom banner and professional summary to connect with industry leaders. I also established a **Kaggle** account to engage with the data science community and organized this **GitHub** repository to showcase my technical projects. This "digital footprint" is essential for my career as a Student Digital Ambassador, as it demonstrates my ability to maintain a professional and influential online presence.
+
+
+----
+
 ## 🚀 Task 3: Explore Coding & Collaboration Platforms
 
 ### 🔗 Project Links
